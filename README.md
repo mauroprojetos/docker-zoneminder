@@ -40,6 +40,12 @@ or in yml:
 
 Default value is America/New_York .
 
+## Branch Available at the moment 
+
+quantumobject/docker-zoneminder:1.32
+
+quantumobject/docker-zoneminder:1.34
+
 ## Accessing the Zoneminder applications
 
 After that check with your browser at addresses plus the port assigned by docker:
